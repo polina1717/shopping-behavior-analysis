@@ -1,4 +1,4 @@
-ссылка на даталендс https://datalens.ru/zlq6r445zk7ij
+ссылка на даталендс https://datalens.yandex/zlq6r445zk7ij
 # shopping-behavior-analysis
 Анализ поведения клиентов на основе датасета покупок
 Анализ данных о покупательском поведении
